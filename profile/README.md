@@ -1,12 +1,14 @@
-## Hi there 👋
+## 🐿️ 어서줍줍 - 기술 블로그, 오픈소스 키워드 구독 서비스
 
-<!--
+### 🔍 어떤 서비스인가요?
+관심 있는 키워드만 담아두면, 매일 아침 기술 블로그의 새 글과 오픈소스를 모아 메일로 보내드리는 서비스입니다.
 
-**Here are some ideas to get you started:**
+### 🤔 어떤 문제를 해결하려고 했나요?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+읽을 만한 글은 넘치지만, 흩어진 기술 블로그와 오픈소스를 매번 찾아다니기는 번거롭습니다. 관심사와 무관한 글까지 훑다 보면 정작 필요한 글을 놓치게 됩니다.
+
+어서줍줍은 키워드를 한 번만 등록해두면 나머지를 대신합니다. 매일 새 글을 수집하고 핵심 키워드를 분류해서, 구독한 키워드에 맞는 것만 골라 보내드립니다.
+
+[어서줍줍 바로가기](https://www.uhsuh.com)
+
+어서줍줍이 도움되셨다면 Star를 눌러주세요 ⭐️
